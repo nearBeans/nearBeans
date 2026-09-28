@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/GitHub-nearBeans-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://x.com/beans_hp0">
-    <img src="https://img.shields.io/badge/X-%40yourhandle-000000?style=for-the-badge&logo=x" alt="X" />
+    <img src="https://img.shields.io/badge/X-%40beans_hp0-000000?style=for-the-badge&logo=x" alt="X" />
   </a>
   <a href="mailto:contact@mofh.dev">
-    <img src="https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-contact@mofh.dev-5865F2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -40,13 +40,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-## 現在の取り組み
-
-- Web アプリや小さなツールの開発
-- 自動化や業務改善を意識したコード作り
-- 学習記録やアウトプットを継続的に行う
-- UI/UX を意識した実用的なプロダクトづくり
 
 ## GitHub Stats
 
