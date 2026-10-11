@@ -1,10 +1,6 @@
 # nearBeans
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4db6ff,100:7c4dff&height=180&section=header&text=Hello%20%7C%20nearBeans" alt="header banner" />
-</p>
-
-<p align="center">
   <a href="https://github.com/nearBeans">
     <img src="https://img.shields.io/badge/GitHub-nearBeans-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
